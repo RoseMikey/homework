@@ -261,7 +261,7 @@
 #
 #     return res
 #
-#git init
+#git initgit
 # print(maximum_score([  #dictdagi sonlarni yig'indisi
 #   { "tile": "N", "score": 1 },
 #   { "tile": "K", "score": 5 },
